@@ -33,15 +33,15 @@ export default function Home() {
           <TextGenerateEffect words={words} className="mt-40 z-20" />
           <div className="mt-6 max-w-[400px] z-20">
             <div className="mt-2">
-              <p className="text-gray-400">Health plus physiotherapy clinic, Vasna, Gotri, vadodara, Gujarat - 390876</p>
+              <p className="text-gray-400">30 MTR, Nr. priya cinema, 221, Second floor, Aarya's landmark, Canal Ring road, near Samanvay west bank, Sevasi, Vadodara, Gujarat 391101</p>
             </div>
             <div className="mt-1">
               <p>Phone number</p>
-              <p className="text-gray-400">9316150799</p>
+              <p className="text-gray-400">7984655312</p>
             </div>
             <div className=" mt-1">
               <p>Email Address</p>
-              <p className="text-gray-400">mittal.physio@gmail.com</p>
+              <p className="text-gray-400">mittal.physio90@gmail.com</p>
             </div>
         </div>
         </div>
@@ -89,18 +89,18 @@ export default function Home() {
             <div className=" grid lg:grid-cols-2 md:grid-cols-1 sm:grid-cols-1 w-full h-full absolute">
                 <div className="col-span-1">
                   <div className="text-6xl text-white inline">Our location</div>
-                  <div className="text-lg text-white mt-6 mr-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque aut quas voluptate odit corrupti quod unde numquam sint nulla voluptas?</div>
+                  <div className="text-lg text-white mt-6 mr-4">Visit Healthplus Physiotherapy clinic and yoga center, vadodara now for best in class pphysical care!</div>
                   <div className="mt-6 max-w-[400px]">
                      <div className="mt-8">
-                        <p className="text-gray-400">Health plus physiotherapy clinic, Vasna, Gotri, vadodara, Gujarat - 390876</p>
+                        <p className="text-gray-400">30 MTR, Nr. priya cinema, 221, Second floor, Aarya's landmark, Canal Ring road, near Samanvay west bank, Sevasi, Vadodara, Gujarat 391101</p>
                      </div>
                      <div className="mt-8">
                         <p>Phone number</p>
-                        <p className="text-gray-400">9316150799</p>
+                        <p className="text-gray-400">7984655312</p>
                      </div>
                      <div className="mt-8">
                         <p>Email Address</p>
-                        <p className="text-gray-400">mittal.physio@gmail.com</p>
+                        <p className="text-gray-400">mittal.physio90@gmail.com</p>
                      </div>
                   </div>
                 </div>
