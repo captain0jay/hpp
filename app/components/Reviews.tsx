@@ -59,7 +59,8 @@ export default function Reviews() {
                 <CarouselContent>
                     {serviceItems.map((serviceItem: any) => (
                         <CarouselItem key={serviceItem.index} className="sm:basis-1/1 md:basis-1/2 lg:basis-1/4">
-                            <Card className="w-[300px] h-[200px] border border-slate-600 rounded-3xl">
+                            <div className="flex items-center justify-center w-full">
+                            <Card className="w-[300px] h-[200px] border border-slate-600 rounded-3xl p-2">
                                 <CardHeader className='mt-4'>
                                     <CardTitle>5* {serviceItem.title}</CardTitle>
                                 </CardHeader>
@@ -67,6 +68,7 @@ export default function Reviews() {
                                     <CardDescription>{serviceItem.description}</CardDescription>
                                 </CardContent>
                             </Card>
+                            </div>
                         </CarouselItem>
                     ))}
                 </CarouselContent>
