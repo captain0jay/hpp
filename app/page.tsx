@@ -33,7 +33,7 @@ export default function Home() {
           <TextGenerateEffect words={words} className="mt-40 z-20" />
           <div className="mt-6 max-w-[400px] z-20">
             <div className="mt-2">
-              <p className="text-gray-400">30 MTR, Nr. priya cinema, 221, Second floor, Aarya's landmark, Canal Ring road, near Samanvay west bank, Sevasi, Vadodara, Gujarat 391101</p>
+              <p className="text-gray-400">30 MTR, Nr. priya cinema, 221, Second floor, Aarya&apos;s landmark, Canal Ring road, near Samanvay west bank, Sevasi, Vadodara, Gujarat 391101</p>
             </div>
             <div className="mt-1">
               <p>Phone number</p>
@@ -92,7 +92,7 @@ export default function Home() {
                   <div className="text-lg text-white mt-6 mr-4">Visit Healthplus Physiotherapy clinic and yoga center, vadodara now for best in class pphysical care!</div>
                   <div className="mt-6 max-w-[400px]">
                      <div className="mt-8">
-                        <p className="text-gray-400">30 MTR, Nr. priya cinema, 221, Second floor, Aarya's landmark, Canal Ring road, near Samanvay west bank, Sevasi, Vadodara, Gujarat 391101</p>
+                        <p className="text-gray-400">30 MTR, Nr. priya cinema, 221, Second floor, Aarya&apos;s landmark, Canal Ring road, near Samanvay west bank, Sevasi, Vadodara, Gujarat 391101</p>
                      </div>
                      <div className="mt-8">
                         <p>Phone number</p>
