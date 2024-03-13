@@ -31,3 +31,38 @@ body {
     text-wrap: balance;
   }
 }
+
+/* Add these styles to your global CSS or styled-components */
+
+.responsive-iframe {
+  /*height: 100vh;*/
+  /*filter: grayscale(90%) invert(92%) contrast(73%);*/
+  width: 100%; /* Default width for all screen sizes */
+
+  /* Responsive width for medium screens (600px - 1023px) */
+  @media screen and (min-width: 600px) and (max-width: 1023px) {
+    width: 75%;
+  }
+
+  /* Responsive width for large screens (1024px and above) */
+  @media screen and (min-width: 1024px) {
+    width: 100%; /* Adjust as needed */
+  }
+
+  /* Responsive height for small screens */
+  height: 300px; /* Adjust as needed for small screens */
+  
+  /* Responsive height for medium screens (600px - 1023px) */
+  @media screen and (min-width: 600px) and (max-width: 1023px) {
+    height: 100%; /* Adjust as needed for medium screens */
+  }
+
+  /* Responsive height for large screens (1024px and above) */
+  @media screen and (min-width: 1024px) {
+    height: 100%; /* Adjust as needed for large screens */
+  }
+}
+
+.custom-width {
+  width: calc(100% - 30px);
+}

@@ -1,0 +1,32 @@
+<CardHeader>
+            <CardTitle>Card Title</CardTitle>
+            <CardDescription>Card Description</CardDescription>
+            </CardHeader>
+            <CardContent>
+            <p>Card Content</p>
+            </CardContent>
+            <CardFooter>
+            <p>Card Footer</p>
+            </CardFooter>
+
+
+<div className="text-3xl mt-4">Surya Namaskar</div> 
+<div className="text-3xl mt-4">Tadasana</div>  
+<div className="text-3xl mt-4">Adho Mukha Svanasana </div> 
+<div className="text-3xl mt-4">Virabhadrasana I </div> 
+<div className="text-3xl mt-4">Virabhadrasana II </div> 
+<div className="text-3xl mt-4">Vrksasana </div> 
+<div className="text-3xl mt-4">Balasana </div> 
+<div className="text-3xl mt-4">Bhujangasana </div> 
+<div className="text-3xl mt-4">Marjaryasana-Bitilasana </div> 
+<div className="text-3xl mt-4">Setu Bandhasana </div> 
+<div className="text-3xl mt-4">Paschimottanasana </div> 
+<div className="text-3xl mt-4">Phalakasana </div> 
+<div className="text-3xl mt-4">Navasana </div> 
+<div className="text-3xl mt-4">Trikonasana </div> 
+<div className="text-3xl mt-4">Urdhva Mukha Svanasana </div> 
+<div className="text-3xl mt-4">Eka Pada Rajakapotasana </div> 
+<div className="text-3xl mt-4">Utkatasana </div> 
+<div className="text-3xl mt-4">Ustrasana </div> 
+<div className="text-3xl mt-4">Matsyasana </div> 
+<div className="text-3xl mt-4">Savasana </div> 
