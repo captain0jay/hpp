@@ -28,7 +28,7 @@ export default function Yoga() {
                 </div>
             </div>
 
-            <div className="grid grid-cols-1 w-full sm:h-[550px] h-[1100px] flex mt-8 ">
+            <div className="grid grid-cols-1 sm:grid-cols-2 w-full sm:h-[550px] h-[1100px] flex mt-8 ">
                 <div className='flex justify-center items-center order-2 sm:order-1'>
                     <div className="w-full h-full flex justify-center items-center">
                         
