@@ -17,7 +17,7 @@ export default function Yoga() {
                         <div className="p-4 gap-4 flex flex-col justify-center items-center w-full">
                             <div className="text-3xl">Surynamaskar</div>
                             <div className="text-3xl mt-5">Tadasana</div>  
-                            <div className="text-3xl mt-5">Adho Mukha Svanasana </div> 
+                            <div className="text-3xl mt-5 w-full break-all overflow-hidden">Adho Mukha Svanasana </div> 
                             <div className="text-3xl mt-5">Virabhadrasana I </div> 
                             <div className="text-3xl mt-5">Virabhadrasana II </div> 
                             <div className="text-3xl mt-5">Vrksasana </div> 
@@ -33,13 +33,13 @@ export default function Yoga() {
                     <div className="w-full h-full flex justify-center items-center">
                         
                         <div className="p-4 ml-12 mt-4 flex flex-col justify-center items-center gap-4">
-                        <div className="text-3xl">Marjaryasana-Bitilasana </div> 
+                        <div className="text-3xl w-full break-all overflow-hidden">Marjaryasana-Bitilasana </div> 
                         <div className="text-3xl mt-5">Setu Bandhasana </div> 
                         <div className="text-3xl mt-5">Paschimottanasana </div> 
                         <div className="text-3xl mt-5">Phalakasana </div> 
                         <div className="text-3xl mt-5">Navasana </div> 
                         <div className="text-3xl mt-5">Trikonasana </div> 
-                        <div className="text-3xl mt-5">Urdhva Mukha Svanasana </div> 
+                        <div className="text-3xl mt-5 w-full break-all overflow-hidden">Urdhva Mukha Svanasana </div> 
                         </div>
                     </div>
                 </div>
